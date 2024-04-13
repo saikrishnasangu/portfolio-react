@@ -18,7 +18,7 @@ const features=[
 
   {
     name:"Protecting Patient Privacy in an e-Healthcare Environment: The DSAS Solution",
-    desc:"A Java Application which uses JSoup to scrape the names and prices of products from E-Commerce websites like EBay ,Amazon & Shopclues and displays them so the user can compare.",
+    desc:"A Java Application which is implemented for securely checking Patient Health Status using e-Healthcare gadgets for enhanced data protection.",
     img: "https://github.com/saikrishnasangu/portfolio-react/blob/master/public/dsas.png?raw=true",
     links:"https://github.com/saikrishnasangu/Protecting-Patient-Privacy-The-DSAS-Solution-in-e-Healthcare",
   },
