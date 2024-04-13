@@ -10,7 +10,7 @@ const features=[
     links:"https://drive.google.com/file/d/17LvFM2wDHuuQA_yfjTfxRLoN0xQbRrlm/view?usp=sharing",
   },
   {
-    name:"Online Aadhaar Portal Virtusa(Apr 2023 - Jul 2023)",
+    name:"Online Aadhaar Portal Virtusa (Apr 2023 - Jul 2023)",
     desc:"Responsible for handling and managing, integrating frontend components using React.js, and implementing authentication using Spring Boot.",
     img: "\eservice.jpg",
     links:"https://www.linkedin.com/in/saikrishnasangu/details/experience/",
