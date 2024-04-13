@@ -11,14 +11,14 @@ const features=[
   },
   {
     name:"Online Aadhaar Portal Virtusa(Apr 2023 - Jul 2023)",
-    desc:"Responsible for handling and Management,integrating frontend components and implementing authentication Spring Boot.",
+    desc:"Responsible for handling and managing, integrating frontend components using React.js, and implementing authentication using Spring Boot.",
     img: "\eservice.jpg",
     links:"https://www.linkedin.com/in/saikrishnasangu/details/experience/",
   },
 
   {
-    name:"Protecting Patient Privacy in an e-Healthcare Environment: The DSAS Solution",
-    desc:"A Java Application which is implemented for securely checking Patient Health Status using e-Healthcare gadgets for enhanced data protection.",
+    name:"Protecting Patient Privacy: The DSAS Solution in an e-Healthcare ",
+    desc:"A Java application implemented to securely check patient health status using e-Healthcare gadgets for enhanced data protection.",
     img: "https://github.com/saikrishnasangu/portfolio-react/blob/master/public/dsas.png?raw=true",
     links:"https://github.com/saikrishnasangu/Protecting-Patient-Privacy-The-DSAS-Solution-in-e-Healthcare",
   },
