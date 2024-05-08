@@ -107,8 +107,20 @@ height: 28px;
 }
 .card-container .card button:hover{
   color: rgba(107, 13, 194, 0.959);
-  background-color: #fefdff;
+  background-color: #fefdff
+  ;
 }
+.card-container .content {
+  position: relative;
+
+}
+.card button {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 /* Target WebKit browsers (e.g., Chrome, Safari) */
 .card-container::-webkit-scrollbar {
   width: 12px; /* Set the width of the scrollbar */

@@ -19,7 +19,7 @@ const features=[
   {
     name:"Protecting Patient Privacy: The DSAS Solution in an e-Healthcare ",
     desc:"A Java application implemented to securely check patient health status using e-Healthcare gadgets for enhanced data protection.",
-    img: "https://github.com/saikrishnasangu/portfolio-react/blob/master/public/dsas.png?raw=true",
+    img: "\dsas.png",
     links:"https://github.com/saikrishnasangu/Protecting-Patient-Privacy-The-DSAS-Solution-in-e-Healthcare",
   },
   // {
@@ -29,12 +29,12 @@ const features=[
   //   links:"https://soujanyasengupta.github.io/codepenClone/",
   // },
   
-  // {
-  //   name:"Pedestrian Crossing System for Visually Impaired",
-  //   desc:"Utilizes TCS230 Color sensor along with HC 05 bluetooth module and Arduino Uno R3 to transmit the detected traffic light color.",
-  //   img:"https://github.com/SOUJANYASENGUPTA/portfolio/blob/main/public/ped.png?raw=true",
-  //   links:"https://drive.google.com/file/d/1jX4DnKKVCSHvW1gxxnlFWsd3CIYa4Y1G/view?usp=drive_link",
-  // },
+  {
+    name:"IRCTC - Railway Management API: Secure, Real-Time, and Role-Based Access",
+    desc:"Built with Node.js, Express.js, MySQL, JWT, and bcrypt.js. Features user registration, login, train availability, seat booking, and admin controls. Secured with JWT & bcrypt.js.",
+    img:"\irctctickebookingapi.jpg",
+    links:"https://github.com/saikrishnasangu/IRCTC_Design.git",
+  },
 
   
 ]
