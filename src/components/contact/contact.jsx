@@ -32,10 +32,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_jnym89p",     // ✅ Your EmailJS Service ID
-        "template_a0lvivg",    // ✅ Your EmailJS Template ID
+        "service_sfdqocd",     // ✅ Your EmailJS Service ID
+        "template_cyjsr9m",    // ✅ Your EmailJS Template ID
         form.current,
-        "I2p85oCbFvcemXnt8"    // ✅ Your EmailJS Public Key
+        "Uxibugbc9j-zGrKj4"    // ✅ Your EmailJS Public Key
       )
       .then(
         (result) => {
